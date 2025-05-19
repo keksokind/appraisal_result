@@ -1,0 +1,23 @@
+,Tunnus,RMSE (pred_app),RMSE (pred_app_noemo)
+,Äkilisus,1.2679,1.2372
+,Tuttavlikkus,1.6525,1.6196
+,Ennustatud_sündmus,1.4571,1.3301
+,Meeldivus,1.13,1.1163
+,Ebameeldivus,1.1767,1.2184
+,Eesmärgi_olulisus,1.6548,1.7497
+,Vastuse_tõenäosus,1.465,1.5342
+,Enesereageerimine,1.2679,1.2649
+,Muu_vastus,1.4412,1.4438
+,Ennustatud_nõusolek,1.6148,1.5665
+,Eesmärgi_toetus,1.3812,1.4033
+,Kiireloomulisus,1.6243,1.7142
+,Enesekontroll,1.4702,1.4033
+,Muu_kontroll,1.5038,1.5836
+,Tähelepanu_tõenäosus,1.4142,1.4412
+,Aktsepteerimine,1.8292,1.8626
+,Kontrolli_norm,2.2921,2.2702
+,Sotsiaalsed_normid,2.4274,2.548
+,Tähelepanu,1.6664,1.6502
+,Mitte_arvestus,2.0736,1.9846
+,Pingutus,1.4358,1.3978
+,Keskmine,1.583147619,1.587604762
